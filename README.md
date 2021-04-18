@@ -4,8 +4,8 @@
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=Ihsan-developer alt=ihsandeveloper /> </p>
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=ihsandeveloper&show_icons=true&include_all_commits=true)](https://github.com/ihsandeveloper/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ihsandeveloper&layout=compact)](https://github.com/ihsandeveloper/github-readme-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=Ihsan-developer&show_icons=true&include_all_commits=true)](https://github.com/Ihsan-developer/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ihsan-developer&layout=compact)](https://github.com/Ihsan-developer/github-readme-stats)
 
 <!--
 **Ihsan-developer/Ihsan-developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
